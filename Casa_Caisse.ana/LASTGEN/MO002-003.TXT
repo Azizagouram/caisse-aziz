@@ -1,0 +1,8 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+cuisine		NFI		nouveau fichier
+Société		NFI		nouveau fichier
+imprimante		NFI		nouveau fichier
+Société		FRN		
+Société	IDSociété	RRN		
+Société	RaisonSociale	RRN		
+Société	Téléphone	RRN		

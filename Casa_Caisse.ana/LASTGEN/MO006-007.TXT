@@ -1,0 +1,2 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+Contrainte_Produit_catégorie		MCL	1,n->0,n	

@@ -1,0 +1,8 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=1	;Analysis GUID
+LOCALIZATION_UTF8=1E93E8B868544FCDB2939ACA3EDFE44B	categorie	C:\Users\hp\Desktop\windev\Casa_Caisse\Casa_Caisse\Exe\categorie.FIC
+LOCALIZATION_UTF8=9DB7C74BCA5741B9BDB5CDF83C3B77E1	Produit	C:\Users\hp\Desktop\windev\Casa_Caisse\Casa_Caisse\Exe\Produit.FIC
+LOCALIZATION_UTF8=AAB289D2B4C24F9DA8E5651780F907C8	Produit_Commande	C:\Users\hp\Desktop\windev\Casa_Caisse\Casa_Caisse\Exe\Produit_Commande.fic
+LOCALIZATION_UTF8=D0737FCBD1AE4ED482C611C0870FADE4	Produit_Composant	C:\Users\hp\Desktop\windev\Casa_Caisse\Casa_Caisse\Exe\Produit_Composant.fic
+LOCALIZATION_UTF8=E74E3BCFFFD64896B098B74D87818219	Société	C:\Users\hp\Desktop\windev\Casa_Caisse\Casa_Caisse\Exe\Societe.FIC

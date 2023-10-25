@@ -1,0 +1,6 @@
+//MO027-028.TXT ANA00027 TO ANA00028
+Produit		TAR	185	nouvelle taille enregistrement : 185
+Produit	Photo	TAI-	150	la rubrique Photo a comme nouvelle taille 51 au lieu de 201
+Produit	alerte	CNW	Entier sur 4 octets$Chaîne	la rubrique alerte a pour nouveau type Entier sur 4 octets
+Produit	IDcatégorie	RDP+		
+Produit	prixlivreur	RDP+		

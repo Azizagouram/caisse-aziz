@@ -1,0 +1,2 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+Produit	nomproduit	NNR	catégories	ATTENTION : la rubrique catégories a pour nouveau nom nomproduit

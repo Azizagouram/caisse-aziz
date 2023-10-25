@@ -1,0 +1,28 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Produit		TAR	171	nouvelle taille enregistrement : 171
+Produit	boolstock	RUB+		boolstock est une nouvelle rubrique
+Produit	CodeBarre	RUB-		la rubrique CodeBarre est supprimée
+Commande		TAR	61	nouvelle taille enregistrement : 61
+Commande	IDClient	RUB+		IDClient est une nouvelle clé
+Commande	numtable	RUB+		numtable est une nouvelle rubrique
+Commande	tiquet	RUB+		tiquet est une nouvelle rubrique
+Commande	payé	RUB+		payé est une nouvelle rubrique
+Commande	prixtotal	RUB+		prixtotal est une nouvelle rubrique
+Commande	IDseveur	RUB+		IDseveur est une nouvelle clé
+Client		NFI		nouveau fichier
+Composant		NFI		nouveau fichier
+Produit_Composant		NFI		nouveau fichier
+seveur		NFI		nouveau fichier
+Stock		FIC-	Stock	Fichier supprimé Stock
+Contrainte_Client_Commande		NWL	Client (IDClient) et Commande (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Commande (IDClient)
+Contrainte_Produit_Composant		NWL	Produit (IDProduit) et Produit_Composant (IDProduit)	Nouvelle liaison entre les fichiers Produit (IDProduit) et Produit_Composant (IDProduit)
+Contrainte_Composant_Produit		NWL	Composant (IDComposant) et Produit_Composant (IDComposant)	Nouvelle liaison entre les fichiers Composant (IDComposant) et Produit_Composant (IDComposant)
+Contrainte_seveur_Commande		NWL	seveur (IDseveur) et Commande (IDseveur)	Nouvelle liaison entre les fichiers seveur (IDseveur) et Commande (IDseveur)
+Client	IDClient	RRN		
+Client	Nom	RRN		
+Client	Prénom	RRN		
+Client	Téléphone	RRN		
+Composant	IDComposant	RRN		
+Composant	Libellé	RRN		
+Composant	QtéRéappro	RRN		
+Composant	QtéMini	RRN		

@@ -1,0 +1,3 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+Produit		TAR	378	nouvelle taille enregistrement : 378
+Produit	Photo	TAI+	150	la rubrique Photo a comme nouvelle taille 201 au lieu de 51

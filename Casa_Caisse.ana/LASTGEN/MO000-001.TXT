@@ -1,0 +1,27 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+utilisateur		NFI		nouveau fichier
+Produit		NFI		nouveau fichier
+catégorie		NFI		nouveau fichier
+Commande		NFI		nouveau fichier
+Stock		NFI		nouveau fichier
+Produit_Commande		NFI		nouveau fichier
+Contrainte_Produit_catégorie		NWL	catégorie (IDcatégorie) et Produit (IDcatégorie)	Nouvelle liaison entre les fichiers catégorie (IDcatégorie) et Produit (IDcatégorie)
+Contrainte_Produit_Commande		NWL	Produit (IDProduit) et Produit_Commande (IDProduit)	Nouvelle liaison entre les fichiers Produit (IDProduit) et Produit_Commande (IDProduit)
+Contrainte_Commande_Produit		NWL	Commande (IDCommande) et Produit_Commande (IDCommande)	Nouvelle liaison entre les fichiers Commande (IDCommande) et Produit_Commande (IDCommande)
+Contrainte_utilisateur_Commande		NWL	utilisateur (IDutilisateur) et Commande (IDutilisateur)	Nouvelle liaison entre les fichiers utilisateur (IDutilisateur) et Commande (IDutilisateur)
+utilisateur		FRN		
+catégorie		FRN		
+Stock		FRN		
+utilisateur	IDutilisateur	RRN		
+utilisateur	nom	RRN		
+utilisateur	MotDePasse	RRN		
+Produit	IDProduit	RRN		
+Produit	Prix_vente	RRN		
+Produit	Photo	RRN		
+Produit	catégories	RRN		
+catégorie	IDcatégorie	RRN		
+catégorie	nom_catégorie	RRN		
+catégorie	Photo	RRN		
+Commande	IDCommande	RRN		
+Stock	IDStock	RRN		
+Stock	Référence	RRN		

@@ -1,0 +1,3 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+Produit		TAR	382	nouvelle taille enregistrement : 382
+Produit	ordreproduit	RUB+		ordreproduit est une nouvelle rubrique

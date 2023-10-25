@@ -1,0 +1,3 @@
+//MO030-031.TXT ANA00030 TO ANA00031
+Produit		TAR	339	nouvelle taille enregistrement : 339
+Produit	Photo	TAI+	150	la rubrique Photo a comme nouvelle taille 201 au lieu de 51
